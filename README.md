@@ -1,4 +1,4 @@
-- 👋 Hello, this's Zar Chi Phyo
+- 👋 Hello, this's Zar Chi Phyo.
 - 📫 I'm a junior web developer.
 - 👀 I found a comfort zone that coding journey listening to music .
 - 🌱 I’m currently learning full stack web development.
